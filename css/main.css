@@ -192,6 +192,7 @@ footer {
 @media (min-width: 1200px) {
   .header-content-wrapper {
     justify-content: space-between;
+    align-items: center;
   }
 
   h1 {
